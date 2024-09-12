@@ -15,7 +15,7 @@ const Page = () => {
         className="group relative h-12 w-48 overflow-hidden rounded-lg bg-red-600 text-lg shadow text-white hover:bg-red-700"
         onClick={handleNavigation}
       >
-        Start
+        Start Quiz
       </button>
     </main>
   );
