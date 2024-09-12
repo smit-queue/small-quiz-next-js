@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_url": "item1.jpg",
+    "time": 20,
+    "questions": [" 1. What is a group of crows called? "]
+  },
+  {
+    "id": 2,
+    "image_url": "item2.jpg",
+    "time": 20,
+    "questions": ["2. How many dots appear on a pair of dice?"]
+  },
+  {
+    "id": 3,
+    "image_url": "item3.jpg",
+    "time": 20,
+    "questions": ["3. Which is the only body part that is fully grown from birth? "]
+  },
+  {
+    "id": 4,
+    "image_url": "item4.jpg",
+    "time": 20,
+    "questions": [" 4. What is acrophobia a fear of?"]
+  },
+  {
+    "id": 5,
+    "image_url": "item5.jpg",
+    "time": 20,
+    "questions": ["5. In what country was Elon Musk born?"]
+  },
+  {
+    "id":6,
+    "image_url":"item6.jpg",
+    "time":20,
+    "questions":["6.why the sky is blue ?"]
+  }
+]
